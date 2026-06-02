@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #F5FBFD;
+  --color-card: #538A99;
+  --color-text-footer-second_button: #2C3133;
+  --color-button: #23CEFE;
+  --color-hover:#45AFCC;
+  --shadow-form: 1px 1px 1px 1px rgba(0,0,0,0.25)
+}
+
+body {
+  margin: 0;
+}
